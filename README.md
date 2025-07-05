@@ -1,5 +1,17 @@
 # Real-Time Collaborative Document Editor
 
+#company : Codetech IT Solutions
+
+Name: Shaik Mohammed Huzaifa
+
+Intern id:CT04DF410
+
+Domain: Full Stack Web Development
+
+Duration: 4 Weeks
+
+Mentor: NEELA SANTOSH
+
 A full-featured collaborative document editor built with React.js, Node.js, and WebSocket technology. This application enables multiple users to edit documents simultaneously in real-time, with live cursor tracking and user presence indicators.
 
 ## Features
